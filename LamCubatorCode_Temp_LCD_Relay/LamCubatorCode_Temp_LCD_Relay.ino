@@ -15,11 +15,7 @@ const int pinTempSensor = A0;     // Grove - Temperature Sensor connect to A0
 
 int reading = 0;
 int relay =7;
-
-  
- 
-
-
+//screen
 rgb_lcd lcd;
 
 const int colorR = 250;
